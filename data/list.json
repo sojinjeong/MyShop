@@ -1,0 +1,555 @@
+[
+    { "num" : 1,
+      "pdnum" : "pd20240101",
+      "title" : "로셀트 앞트임기모 후드티",
+      "desc" : "유행이나 싫증없이 시즌마다 유니크하게 어디서도 볼 수 없는 기모후드티 에요",
+      "price" : 19000,
+      "orprice" : 30000,
+      "colors" : [
+        { "color" : "black", "optprice1" : 0},
+        { "color" : "red", "optprice1" : 0},
+        { "color" : "gray", "optprice1" : 0}        
+         ],
+      "size" : [
+        { "size" : "FREE", "optprice2" : 1000},
+        { "size" : "L", "optprice2" : 0},
+        { "size" : "M", "optprice2" : 0},
+        { "size" : "S", "optprice2" : 2000}
+       ],
+    "update" : "2024-01-01",
+    "hit" : 2010,
+    "sales_rate" : 250,
+    "img":"./img/pd/001.jpg"
+
+    },
+    { "num" : 2,
+      "pdnum" : "pd20240101",
+      "title" : "로셀트 앞트임기모 후드티",
+      "desc" : "유행이나 싫증없이 시즌마다 유니크하게 어디서도 볼 수 없는 기모후드티 에요",
+      "price" : 88000,
+      "orprice" : 100000,
+      "colors" : [
+        { "color" : "black", "optprice1" : 0},
+        { "color" : "red", "optprice1" : 0},
+        { "color" : "gray", "optprice1" : 0}        
+         ],
+      "size" : [
+        { "size" : "FREE", "optprice2" : 1000},
+        { "size" : "L", "optprice2" : 0},
+        { "size" : "M", "optprice2" : 0},
+        { "size" : "S", "optprice2" : 2000}
+       ],
+    "update" : "2024-01-01",
+    "hit" : 20125,
+    "sales_rate" : 250,
+    "img":"./img/pd/002.jpg"
+
+    },
+    { "num" : 3,
+      "pdnum" : "pd20240101",
+      "title" : "로셀트 앞트임기모 후드티",
+      "desc" : "유행이나 싫증없이 시즌마다 유니크하게 어디서도 볼 수 없는 기모후드티 에요",
+      "price" : 88000,
+      "orprice" : 100000,
+      "colors" : [
+        { "color" : "black", "optprice1" : 0},
+        { "color" : "red", "optprice1" : 0},
+        { "color" : "gray", "optprice1" : 0}        
+         ],
+      "size" : [
+        { "size" : "FREE", "optprice2" : 1000},
+        { "size" : "L", "optprice2" : 0},
+        { "size" : "M", "optprice2" : 0},
+        { "size" : "S", "optprice2" : 2000}
+       ],
+    "update" : "2024-01-01",
+    "hit" : 20125,
+        "sales_rate" : 250,
+    "img":"./img/pd/003.jpg"
+
+    },
+    { "num" : 4,
+      "pdnum" : "pd20240101",
+      "title" : "로셀트 앞트임기모 후드티",
+      "desc" : "유행이나 싫증없이 시즌마다 유니크하게 어디서도 볼 수 없는 기모후드티 에요",
+      "price" : 88000,
+      "orprice" : 100000,
+      "colors" : [
+        { "color" : "black", "optprice1" : 0},
+        { "color" : "red", "optprice1" : 0},
+        { "color" : "gray", "optprice1" : 0}        
+         ],
+      "size" : [
+        { "size" : "FREE", "optprice2" : 1000},
+        { "size" : "L", "optprice2" : 0},
+        { "size" : "M", "optprice2" : 0},
+        { "size" : "S", "optprice2" : 2000}
+       ],
+    "update" : "2024-01-01",
+    "hit" : 20125,
+        "sales_rate" : 250,
+    "img":"./img/pd/004.jpg"
+
+    },
+    { "num" : 5,
+      "pdnum" : "pd20240101",
+      "title" : "로셀트 앞트임기모 후드티",
+      "desc" : "유행이나 싫증없이 시즌마다 유니크하게 어디서도 볼 수 없는 기모후드티 에요",
+      "price" : 88000,
+      "orprice" : 100000,
+      "colors" : [
+        { "color" : "black", "optprice1" : 0},
+        { "color" : "red", "optprice1" : 0},
+        { "color" : "gray", "optprice1" : 0}        
+         ],
+      "size" : [
+        { "size" : "FREE", "optprice2" : 1000},
+        { "size" : "L", "optprice2" : 0},
+        { "size" : "M", "optprice2" : 0},
+        { "size" : "S", "optprice2" : 2000}
+       ],
+    "update" : "2024-01-01",
+    "hit" : 20125,
+        "sales_rate" : 250,
+    "img":"./img/pd/005.jpg"
+
+    },
+    { "num" : 6,
+      "pdnum" : "pd20240101",
+      "title" : "로셀트 앞트임기모 후드티",
+      "desc" : "유행이나 싫증없이 시즌마다 유니크하게 어디서도 볼 수 없는 기모후드티 에요",
+      "price" : 88000,
+      "orprice" : 100000,
+      "colors" : [
+        { "color" : "black", "optprice1" : 0},
+        { "color" : "red", "optprice1" : 0},
+        { "color" : "gray", "optprice1" : 0}        
+         ],
+      "size" : [
+        { "size" : "FREE", "optprice2" : 1000},
+        { "size" : "L", "optprice2" : 0},
+        { "size" : "M", "optprice2" : 0},
+        { "size" : "S", "optprice2" : 2000}
+       ],
+    "update" : "2024-01-01",
+    "hit" : 20125,
+        "sales_rate" : 250,
+    "img":"./img/pd/006.jpg"
+
+    },
+    { "num" : 7,
+      "pdnum" : "pd20240101",
+      "title" : "로셀트 앞트임기모 후드티",
+      "desc" : "유행이나 싫증없이 시즌마다 유니크하게 어디서도 볼 수 없는 기모후드티 에요",
+      "price" : 88000,
+      "orprice" : 100000,
+      "colors" : [
+        { "color" : "black", "optprice1" : 0},
+        { "color" : "red", "optprice1" : 0},
+        { "color" : "gray", "optprice1" : 0}        
+         ],
+      "size" : [
+        { "size" : "FREE", "optprice2" : 1000},
+        { "size" : "L", "optprice2" : 0},
+        { "size" : "M", "optprice2" : 0},
+        { "size" : "S", "optprice2" : 2000}
+       ],
+    "update" : "2024-01-01",
+    "hit" : 20125,
+        "sales_rate" : 250,
+    "img":"./img/pd/007.jpg"
+
+    },
+    { "num" : 8,
+      "pdnum" : "pd20240101",
+      "title" : "로셀트 앞트임기모 후드티",
+      "desc" : "유행이나 싫증없이 시즌마다 유니크하게 어디서도 볼 수 없는 기모후드티 에요",
+      "price" : 88000,
+      "orprice" : 100000,
+      "colors" : [
+        { "color" : "black", "optprice1" : 0},
+        { "color" : "red", "optprice1" : 0},
+        { "color" : "gray", "optprice1" : 0}        
+         ],
+      "size" : [
+        { "size" : "FREE", "optprice2" : 1000},
+        { "size" : "L", "optprice2" : 0},
+        { "size" : "M", "optprice2" : 0},
+        { "size" : "S", "optprice2" : 2000}
+       ],
+    "update" : "2024-01-01",
+    "hit" : 20125,
+        "sales_rate" : 250,
+    "img":"./img/pd/008.jpg"
+
+    },
+    { "num" : 9,
+      "pdnum" : "pd20240101",
+      "title" : "로셀트 앞트임기모 후드티",
+      "desc" : "유행이나 싫증없이 시즌마다 유니크하게 어디서도 볼 수 없는 기모후드티 에요",
+      "price" : 88000,
+      "orprice" : 100000,
+      "colors" : [
+        { "color" : "black", "optprice1" : 0},
+        { "color" : "red", "optprice1" : 0},
+        { "color" : "gray", "optprice1" : 0}        
+         ],
+      "size" : [
+        { "size" : "FREE", "optprice2" : 1000},
+        { "size" : "L", "optprice2" : 0},
+        { "size" : "M", "optprice2" : 0},
+        { "size" : "S", "optprice2" : 2000}
+       ],
+    "update" : "2024-01-01",
+    "hit" : 20125,
+        "sales_rate" : 250,
+    "img":"./img/pd/009.jpg"
+
+    },
+    { "num" : 10,
+      "pdnum" : "pd20240101",
+      "title" : "로셀트 앞트임기모 후드티",
+      "desc" : "유행이나 싫증없이 시즌마다 유니크하게 어디서도 볼 수 없는 기모후드티 에요",
+      "price" : 88000,
+      "orprice" : 100000,
+      "colors" : [
+        { "color" : "black", "optprice1" : 0},
+        { "color" : "red", "optprice1" : 0},
+        { "color" : "gray", "optprice1" : 0}        
+         ],
+      "size" : [
+        { "size" : "FREE", "optprice2" : 1000},
+        { "size" : "L", "optprice2" : 0},
+        { "size" : "M", "optprice2" : 0},
+        { "size" : "S", "optprice2" : 2000}
+       ],
+    "update" : "2024-01-01",
+    "hit" : 20125,
+        "sales_rate" : 250,
+    "img":"./img/pd/010.jpg"
+
+    },
+    { "num" : 11,
+      "pdnum" : "pd20240101",
+      "title" : "로셀트 앞트임기모 후드티",
+      "desc" : "유행이나 싫증없이 시즌마다 유니크하게 어디서도 볼 수 없는 기모후드티 에요",
+      "price" : 88000,
+      "orprice" : 100000,
+      "colors" : [
+        { "color" : "black", "optprice1" : 0},
+        { "color" : "red", "optprice1" : 0},
+        { "color" : "gray", "optprice1" : 0}        
+         ],
+      "size" : [
+        { "size" : "FREE", "optprice2" : 1000},
+        { "size" : "L", "optprice2" : 0},
+        { "size" : "M", "optprice2" : 0},
+        { "size" : "S", "optprice2" : 2000}
+       ],
+    "update" : "2024-01-01",
+    "hit" : 20125,
+        "sales_rate" : 250,
+    "img":"./img/pd/011.jpg"
+
+    },
+    { "num" : 12,
+      "pdnum" : "pd20240101",
+      "title" : "로셀트 앞트임기모 후드티",
+      "desc" : "유행이나 싫증없이 시즌마다 유니크하게 어디서도 볼 수 없는 기모후드티 에요",
+      "price" : 88000,
+      "orprice" : 100000,
+      "colors" : [
+        { "color" : "black", "optprice1" : 0},
+        { "color" : "red", "optprice1" : 0},
+        { "color" : "gray", "optprice1" : 0}        
+         ],
+      "size" : [
+        { "size" : "FREE", "optprice2" : 1000},
+        { "size" : "L", "optprice2" : 0},
+        { "size" : "M", "optprice2" : 0},
+        { "size" : "S", "optprice2" : 2000}
+       ],
+    "update" : "2024-01-01",
+    "hit" : 20125,
+        "sales_rate" : 250,
+    "img":"./img/pd/012.jpg"
+
+    },
+    { "num" : 13,
+      "pdnum" : "pd20240101",
+      "title" : "로셀트 앞트임기모 후드티",
+      "desc" : "유행이나 싫증없이 시즌마다 유니크하게 어디서도 볼 수 없는 기모후드티 에요",
+      "price" : 88000,
+      "orprice" : 100000,
+      "colors" : [
+        { "color" : "black", "optprice1" : 0},
+        { "color" : "red", "optprice1" : 0},
+        { "color" : "gray", "optprice1" : 0}        
+         ],
+      "size" : [
+        { "size" : "FREE", "optprice2" : 1000},
+        { "size" : "L", "optprice2" : 0},
+        { "size" : "M", "optprice2" : 0},
+        { "size" : "S", "optprice2" : 2000}
+       ],
+    "update" : "2024-01-01",
+    "hit" : 20125,
+        "sales_rate" : 250,
+    "img":"./img/pd/013.jpg"
+
+    },
+    { "num" : 14,
+      "pdnum" : "pd20240101",
+      "title" : "로셀트 앞트임기모 후드티",
+      "desc" : "유행이나 싫증없이 시즌마다 유니크하게 어디서도 볼 수 없는 기모후드티 에요",
+      "price" : 88000,
+      "orprice" : 100000,
+      "colors" : [
+        { "color" : "black", "optprice1" : 0},
+        { "color" : "red", "optprice1" : 0},
+        { "color" : "gray", "optprice1" : 0}        
+         ],
+      "size" : [
+        { "size" : "FREE", "optprice2" : 1000},
+        { "size" : "L", "optprice2" : 0},
+        { "size" : "M", "optprice2" : 0},
+        { "size" : "S", "optprice2" : 2000}
+       ],
+    "update" : "2024-01-01",
+    "hit" : 20125,
+        "sales_rate" : 250,
+    "img":"./img/pd/014.jpg"
+
+    },
+    { "num" : 15,
+      "pdnum" : "pd20240101",
+      "title" : "로셀트 앞트임기모 후드티",
+      "desc" : "유행이나 싫증없이 시즌마다 유니크하게 어디서도 볼 수 없는 기모후드티 에요",
+      "price" : 88000,
+      "orprice" : 100000,
+      "colors" : [
+        { "color" : "black", "optprice1" : 0},
+        { "color" : "red", "optprice1" : 0},
+        { "color" : "gray", "optprice1" : 0}        
+         ],
+      "size" : [
+        { "size" : "FREE", "optprice2" : 1000},
+        { "size" : "L", "optprice2" : 0},
+        { "size" : "M", "optprice2" : 0},
+        { "size" : "S", "optprice2" : 2000}
+       ],
+    "update" : "2024-01-01",
+    "hit" : 20125,
+        "sales_rate" : 250,
+    "img":"./img/pd/015.jpg"
+
+    },
+    { "num" : 16,
+      "pdnum" : "pd20240101",
+      "title" : "로셀트 앞트임기모 후드티",
+      "desc" : "유행이나 싫증없이 시즌마다 유니크하게 어디서도 볼 수 없는 기모후드티 에요",
+      "price" : 88000,
+      "orprice" : 100000,
+      "colors" : [
+        { "color" : "black", "optprice1" : 0},
+        { "color" : "red", "optprice1" : 0},
+        { "color" : "gray", "optprice1" : 0}        
+         ],
+      "size" : [
+        { "size" : "FREE", "optprice2" : 1000},
+        { "size" : "L", "optprice2" : 0},
+        { "size" : "M", "optprice2" : 0},
+        { "size" : "S", "optprice2" : 2000}
+       ],
+    "update" : "2024-01-01",
+    "hit" : 20125,
+        "sales_rate" : 250,
+    "img":"./img/pd/016.jpg"
+
+    },
+    { "num" : 17,
+      "pdnum" : "pd20240101",
+      "title" : "로셀트 앞트임기모 후드티",
+      "desc" : "유행이나 싫증없이 시즌마다 유니크하게 어디서도 볼 수 없는 기모후드티 에요",
+      "price" : 88000,
+      "orprice" : 100000,
+      "colors" : [
+        { "color" : "black", "optprice1" : 0},
+        { "color" : "red", "optprice1" : 0},
+        { "color" : "gray", "optprice1" : 0}        
+         ],
+      "size" : [
+        { "size" : "FREE", "optprice2" : 1000},
+        { "size" : "L", "optprice2" : 0},
+        { "size" : "M", "optprice2" : 0},
+        { "size" : "S", "optprice2" : 2000}
+       ],
+    "update" : "2024-01-01",
+    "hit" : 20125,
+        "sales_rate" : 250,
+    "img":"./img/pd/017.jpg"
+
+    },
+    { "num" : 18,
+      "pdnum" : "pd20240101",
+      "title" : "로셀트 앞트임기모 후드티",
+      "desc" : "유행이나 싫증없이 시즌마다 유니크하게 어디서도 볼 수 없는 기모후드티 에요",
+      "price" : 88000,
+      "orprice" : 100000,
+      "colors" : [
+        { "color" : "black", "optprice1" : 0},
+        { "color" : "red", "optprice1" : 0},
+        { "color" : "gray", "optprice1" : 0}        
+         ],
+      "size" : [
+        { "size" : "FREE", "optprice2" : 1000},
+        { "size" : "L", "optprice2" : 0},
+        { "size" : "M", "optprice2" : 0},
+        { "size" : "S", "optprice2" : 2000}
+       ],
+    "update" : "2024-01-01",
+    "hit" : 20125,
+        "sales_rate" : 250,
+    "img":"./img/pd/018.jpg"
+
+    },
+    { "num" : 19,
+      "pdnum" : "pd20240101",
+      "title" : "로셀트 앞트임기모 후드티",
+      "desc" : "유행이나 싫증없이 시즌마다 유니크하게 어디서도 볼 수 없는 기모후드티 에요",
+      "price" : 88000,
+      "orprice" : 100000,
+      "colors" : [
+        { "color" : "black", "optprice1" : 0},
+        { "color" : "red", "optprice1" : 0},
+        { "color" : "gray", "optprice1" : 0}        
+         ],
+      "size" : [
+        { "size" : "FREE", "optprice2" : 1000},
+        { "size" : "L", "optprice2" : 0},
+        { "size" : "M", "optprice2" : 0},
+        { "size" : "S", "optprice2" : 2000}
+       ],
+    "update" : "2024-01-01",
+    "hit" : 20125,
+        "sales_rate" : 250,
+    "img":"./img/pd/019.jpg"
+
+    },
+    { "num" : 20,
+      "pdnum" : "pd20240101",
+      "title" : "로셀트 앞트임기모 후드티",
+      "desc" : "유행이나 싫증없이 시즌마다 유니크하게 어디서도 볼 수 없는 기모후드티 에요",
+      "price" : 88000,
+      "orprice" : 100000,
+      "colors" : [
+        { "color" : "black", "optprice1" : 0},
+        { "color" : "red", "optprice1" : 0},
+        { "color" : "gray", "optprice1" : 0}        
+         ],
+      "size" : [
+        { "size" : "FREE", "optprice2" : 1000},
+        { "size" : "L", "optprice2" : 0},
+        { "size" : "M", "optprice2" : 0},
+        { "size" : "S", "optprice2" : 2000}
+       ],
+    "update" : "2024-01-01",
+    "hit" : 20125,
+        "sales_rate" : 250,
+    "img":"./img/pd/020.jpg"
+
+    },
+    { "num" : 21,
+      "pdnum" : "pd20240101",
+      "title" : "로셀트 앞트임기모 후드티",
+      "desc" : "유행이나 싫증없이 시즌마다 유니크하게 어디서도 볼 수 없는 기모후드티 에요",
+      "price" : 88000,
+      "orprice" : 100000,
+      "colors" : [
+        { "color" : "black", "optprice1" : 0},
+        { "color" : "red", "optprice1" : 0},
+        { "color" : "gray", "optprice1" : 0}        
+         ],
+      "size" : [
+        { "size" : "FREE", "optprice2" : 1000},
+        { "size" : "L", "optprice2" : 0},
+        { "size" : "M", "optprice2" : 0},
+        { "size" : "S", "optprice2" : 2000}
+       ],
+    "update" : "2024-01-01",
+    "hit" : 20125,
+        "sales_rate" : 250,
+    "img":"./img/pd/021.jpg"
+
+    },
+    { "num" : 22,
+      "pdnum" : "pd20240101",
+      "title" : "로셀트 앞트임기모 후드티",
+      "desc" : "유행이나 싫증없이 시즌마다 유니크하게 어디서도 볼 수 없는 기모후드티 에요",
+      "price" : 88000,
+      "orprice" : 100000,
+      "colors" : [
+        { "color" : "black", "optprice1" : 0},
+        { "color" : "red", "optprice1" : 0},
+        { "color" : "gray", "optprice1" : 0}        
+         ],
+      "size" : [
+        { "size" : "FREE", "optprice2" : 1000},
+        { "size" : "L", "optprice2" : 0},
+        { "size" : "M", "optprice2" : 0},
+        { "size" : "S", "optprice2" : 2000}
+       ],
+    "update" : "2024-01-01",
+    "hit" : 20125,
+        "sales_rate" : 250,
+    "img":"./img/pd/022.jpg"
+
+    } ,  
+    { "num" : 23,
+    "pdnum" : "pd20240101",
+    "title" : "로셀트 앞트임기모 후드티",
+    "desc" : "유행이나 싫증없이 시즌마다 유니크하게 어디서도 볼 수 없는 기모후드티 에요",
+    "price" : 88000,
+    "orprice" : 100000,
+    "colors" : [
+      { "color" : "black", "optprice1" : 0},
+      { "color" : "red", "optprice1" : 0},
+      { "color" : "gray", "optprice1" : 0}        
+       ],
+    "size" : [
+      { "size" : "FREE", "optprice2" : 1000},
+      { "size" : "L", "optprice2" : 0},
+      { "size" : "M", "optprice2" : 0},
+      { "size" : "S", "optprice2" : 2000}
+     ],
+  "update" : "2024-01-01",
+  "hit" : 20125,
+      "sales_rate" : 250,
+  "img":"./img/pd/023.jpg"
+
+  },
+  { "num" : 24,
+  "pdnum" : "pd20240101",
+  "title" : "로셀트 앞트임기모 후드티",
+  "desc" : "유행이나 싫증없이 시즌마다 유니크하게 어디서도 볼 수 없는 기모후드티 에요",
+  "price" : 88000,
+  "orprice" : 100000,
+  "colors" : [
+    { "color" : "black", "optprice1" : 0},
+    { "color" : "red", "optprice1" : 0},
+    { "color" : "gray", "optprice1" : 0}        
+     ],
+  "size" : [
+    { "size" : "FREE", "optprice2" : 1000},
+    { "size" : "L", "optprice2" : 0},
+    { "size" : "M", "optprice2" : 0},
+    { "size" : "S", "optprice2" : 2000}
+   ],
+"update" : "2024-01-01",
+"hit" : 20125,
+    "sales_rate" : 250,
+"img":"./img/pd/024.jpg"
+
+}
+
+]
