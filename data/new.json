@@ -1,6 +1,6 @@
 {
     "newlist": [
-        {"num":1,"title":"black label","txt":"프리미엄 라인, 블랙라벨","img":"img/pd/001.jpg"},
+        {"num":1,"title":"black label","txt":"프리미엄 라인, 블랙라벨","img":"./img/pd/001.jpg"},
         {"num":2,"title":"new hotdeal","txt":"허리는 밴드거부감 없어!!","img":"./img/pd/002.jpg"},
         {"num":3,"title":"office look","txt":"네크라인과 아랫단은 패턴을 담아 최강 아이템으로","img":"./img/pd/003.jpg"},
         {"num":4,"title":"outer","txt":"법관의 임기는 10년으로 하며, 법률이 정 ","img":"./img/pd/004.jpg"},
