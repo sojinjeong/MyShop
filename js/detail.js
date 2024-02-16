@@ -64,8 +64,8 @@
          </ul>
          <input type="hidden" name = "subtitle[]" class="subtitle">
          <input type="hidden" name = "toptmoney[]" class="toptmoney">
-         <i class="fa-solid fa-close remove-order"></i> 
          <div class="tomoney col text-right"></div>
+         <i class="fa-solid fa-close remove-order"></i> 
           
      </li>  
    </ul>`;
@@ -102,12 +102,13 @@
           for(let i = 0; i < $('.quantity').length; i++){
             $('.quantity').eq(i).val(quantityArray[i]);
           }
-          $('.subtitle').eq(totalTextLength).val(optionText); //input type hidden 에 정보 저장
+          $('.subtitle').eq(totalTextLength).val(`${colortxt}-${sizetxt}`); //input type hidden 에 정보 저장
           $('.toptmoney').eq(totalTextLength).val(tmoney); //가격 저장
           $('.total-text').eq(totalTextLength).html(optionText); //totalTextLength 갯수를 구하고 eq로 순서 정렬(22) 
           $('.quantity').eq(totalTextLength).val(1);
           $('.tomoney').eq(totalTextLength).html(tmoney.toLocaleString()+"원"); // totalmoney -> tmoney로 수정
-          totalMoney();
+          $('#submit, #cart').attr('disabled', false);
+          totalMoney(delivery);
       }    
      });
   
@@ -133,7 +134,7 @@
       //   $('.tomoney').eq(ind).html(tmoney + "원");
         let txt = "총 상품금액(수량) : <strong>"+ttmoney+"원</strong>("+quantity+"개)";
         $('.totalmoney').html(txt);
-        totalMoney();
+        totalMoney(delivery);
      });
   
      //$('#qdown').click(function(){
@@ -152,25 +153,73 @@
         $(this).parents('.add-opt').find('.tomoney').html(ttmoney + "원");
 
 
-        let txt = "총 상품금액(수량) : <strong>"+ttmoney+"원</strong>("+quantity+"개)";
-        $('.totalmoney').html(txt);
-        totalMoney();
+       
+        totalMoney(delivery);
      });
   
-     //주문 수량추가 후 엑스하면 없애기
+     //주문 수량추가 후 엑스하면 
      $(document).on('click', '.remove-order', function(){
-       totalMoney();
         $(this).parents('.add-opt').remove(); //remove-order가 속한 조상중의 add-opt를 지우고 add-opt의 아이들 빼라
+        if($('.addquantity').children().hasClass('add-opt')){
+         totalMoney(delivery);
+        }else{
+         $('.size').find("option:first").prop("selected", true);
+         $('#submit,#cart').attr('disabled',true);
+         $('.totalmoney').html('');
+        }
+
      });
+
+     //본문 상세보기 스크립트
+     $('.nav-pills li').click(function(){
+      $('.nav-pills>li').removeClass('active');
+      $(this).addClass('active');
+
+      
+     });
+     viewReview();
+
+     //리뷰 슬릭
+     
+     $('#review').show(function(){
+      $('.review-photo').slick({
+        slidesToScroll:1,
+        slidesToShow:11,
+        centerMode: true,
+        focusOnSelect: true
+      });
+
+   });
+
+
+
+     
   });//jquery
 
-  function totalMoney(){
+
+  //리뷰 퍼센트 보기 함수
+  function viewReview(){
+   $('.box-line-color').each(function(){
+      let h = $(this).css('height');
+      $(this).html("<span>"+h+"</span>")
+   });
+  }
+         
+  function totalMoney(delivery){
    let tm = 0;
-     $("input[name='toptmoney[]']").each(function(index){
+      $("input[name='toptmoney[]']").each(function(index){
          let moneyVal = parseInt($(this).val());
+         if(moneyVal){}
          let qt = parseInt($(".quantity").eq(index).val());
          tm += moneyVal*qt;
-         console.log(tm);
-     })
+         //배송정책
+         if(tm > 200000){
+            delivery = 0;
+         }
+         let txt = "총 상품금액(수량) : <strong>"+tm.toLocaleString()+"원</strong>+(배송비 : "+ delivery.toLocaleString() +"원)";
+         $('.totalmoney').html(txt);
+     });
+   
+    
   }
    
